@@ -1,5 +1,5 @@
 # Parallel-Shearsort
-Shearsort Algorithm implementation using MPI, to sort a set of words in lexicographic order
+Shearsort Algorithm implementation using MPI. Sorting a set of words in lexicographic order.
 
 •	At the end of the program the words are displayed in a snake-like matrix order.
 
