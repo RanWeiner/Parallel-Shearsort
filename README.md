@@ -10,10 +10,15 @@ Shearsort Algorithm implementation using MPI, to sort a set of words in lexicogr
 •	Assume that N is even.
 
 •	The input file is organized as following:
+
 Number of words
+
 Word1
+
 Word2
+
 …
+
 WordN
 
 
